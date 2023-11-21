@@ -22,4 +22,5 @@ compiler-opts:
 ### Ignoring source errors
 
 As a last resort, you can pass in `--ignore-source-errors` or set `ignore-source-errors: true` in yaml config.
+
 **Warning: This will likely lead to incorrect bindings!**
